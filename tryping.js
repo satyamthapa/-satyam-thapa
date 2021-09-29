@@ -82,13 +82,13 @@ $('.skill').waypoint(function () {
 /*==================== SCROLL REVEAL ANIMATION ====================*/
 const sr = ScrollReveal({
   origin: 'bottom',
-  distance: '40px',
-  duration: 1000,
+  distance: '45px',
+  duration: 900,
   reset: true
 });
 
 sr.reveal(`.scs`, {
-  interval: 300
+  interval: 100
 })
 
 
