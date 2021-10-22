@@ -106,9 +106,11 @@ section .title::after{
 .navbar .menu li a:hover{
     text-decoration: none;
     color: rgb(122, 6, 232);
+  rgb(122, 6, 232
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
+   
 }
 
 /* menu btn styling */
@@ -242,6 +244,7 @@ section .title::after{
     }
     .navbar .menu.active{
         left: 0;
+           color: crimson;
     }
     .navbar .menu li{
         display: block;
