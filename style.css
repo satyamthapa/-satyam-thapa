@@ -106,12 +106,12 @@ section .title::after{
 .navbar .menu li a:hover{
     text-decoration: none;
     color: rgb(122, 6, 232);
-     transform: matrix(1, 0.67, 0.03, 0.87, 0, 0);
+     
   
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
-    transform: matrix(1, 0.67, 0.03, 0.87, 0, 0);
+
 }
 
 /* menu btn styling */
